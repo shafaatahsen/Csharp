@@ -1,0 +1,10 @@
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\bin\Debug\netcoreapp2.0\myapp.deps.json
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.json
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\bin\Debug\netcoreapp2.0\myapp.runtimeconfig.dev.json
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\bin\Debug\netcoreapp2.0\myapp.dll
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\bin\Debug\netcoreapp2.0\myapp.pdb
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\obj\Debug\netcoreapp2.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfoInputs.cache
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\obj\Debug\netcoreapp2.0\myapp.AssemblyInfo.cs
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\obj\Debug\netcoreapp2.0\myapp.dll
+C:\Users\Zanel\Onedrive\Documents\Code\csharp\myapp\obj\Debug\netcoreapp2.0\myapp.pdb
