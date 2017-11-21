@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\aspnetapp.csproj",
+      "projectUniqueName": "c:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\aspnetapp.csproj",
       "projectName": "aspnetapp",
-      "projectPath": "C:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\aspnetapp.csproj",
+      "projectPath": "c:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\aspnetapp.csproj",
       "packagesPath": "C:\\Users\\Zanel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\obj\\",
+      "outputPath": "c:\\Users\\Zanel\\Onedrive\\Documents\\Code\\csharp\\aspnetapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
